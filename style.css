@@ -1,0 +1,12 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+
+#body-centre {
+    max-width: 600px;
+}
+
+#body-centre p {
+    overflow-wrap:break-word;
+    size: 30px;
+    font-family: 'IBM Plex Mono', monospace;
+    text-align:left;
+}
